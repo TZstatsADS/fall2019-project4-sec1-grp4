@@ -6,6 +6,8 @@ Term: Fall 2019
 
 + Team Section1 Group4
 + Projec title: Collaborative Filtering Implementation And Evaluation 
+<img src="figs/colab.png" alt="collaborative filtering" width="500"/>
+
 + Team members
 	+ Chongyu He (ch3379)
 	+ Daniel Lee (dl3250)
@@ -15,12 +17,12 @@ Term: Fall 2019
 + Project summary: 
 We worked on building a content filtering method for the recommendation system, using Stochatic Gradient Descent algorithm. Tempoeral regularization was usd for regularization and for postprocessing, SVD with KNN and SVD with kernel ridge regression was used.
 Our group’s goal is to see the difference between the two models:
-- SGD algorithm with temporal regularization and postprocessing SVD with KNN
-- SGD algorithm with temporal regularization and postprocessing SVD with kernel ridge regression
+	- SGD algorithm with temporal regularization and postprocessing SVD with KNN
+	- SGD algorithm with temporal regularization and postprocessing SVD with kernel ridge regression
 
 	
 
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
