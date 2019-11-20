@@ -6,7 +6,7 @@ Term: Fall 2019
 
 + Team Section1 Group4
 + Projec title: Collaborative Filtering Implementation And Evaluation 
-<img src="figs/colab.jpg" alt="collaborative filtering" width="500"/>
+<img src="figs/colab.png" alt="collaborative filtering" width="500"/>
 
 + Team members
 	+ Chongyu He (ch3379)
