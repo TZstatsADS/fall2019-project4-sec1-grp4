@@ -6,6 +6,8 @@ Term: Fall 2019
 
 + Team Section1 Group4
 + Projec title: Collaborative Filtering Implementation And Evaluation 
+<img src="figs/colab.jpg" alt="collaborative filtering" width="500"/>
+
 + Team members
 	+ Chongyu He (ch3379)
 	+ Daniel Lee (dl3250)
@@ -15,8 +17,8 @@ Term: Fall 2019
 + Project summary: 
 We worked on building a content filtering method for the recommendation system, using Stochatic Gradient Descent algorithm. Tempoeral regularization was usd for regularization and for postprocessing, SVD with KNN and SVD with kernel ridge regression was used.
 Our group’s goal is to see the difference between the two models:
-- SGD algorithm with temporal regularization and postprocessing SVD with KNN
-- SGD algorithm with temporal regularization and postprocessing SVD with kernel ridge regression
+	- SGD algorithm with temporal regularization and postprocessing SVD with KNN
+	- SGD algorithm with temporal regularization and postprocessing SVD with kernel ridge regression
 
 	
 
