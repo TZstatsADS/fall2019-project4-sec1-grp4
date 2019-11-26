@@ -25,10 +25,10 @@ Our group’s goal is to see the difference between the two models:
 **Contribution statement**: 
 + Chongyu He 
 + Daniel Lee 
-+ Yiwen Ma： Designed and implemented entire architecture,including matrix factorization(SGD),regularization(Temperal dynamics),postprocessing(KNN and Ridge). Trained and tested the model, parameter tuning.
++ Yiwen Ma: Designed and implemented entire architecture,including matrix factorization(SGD),regularization(Temperal dynamics),postprocessing(KNN and Ridge). Trained and tested the model, parameter tuning.
 
 + Runzi Qiang
-+ Yifan Yang
++ Yifan Yang: Implemented the starter code of stochastic gradient descent, regularization and matrix factorization. 
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
