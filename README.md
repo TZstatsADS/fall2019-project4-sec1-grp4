@@ -27,7 +27,7 @@ Our group’s goal is to see the difference between the two models:
 + Daniel Lee: Converted starter code from R to Python, implemented static temperal dynamics algorithm, organized github
 + Yiwen Ma: Designed and implemented entire architecture,including matrix factorization(SGD),regularization(Temperal dynamics),postprocessing(KNN and Ridge). Trained and tested the model, parameter tuning.
 
-+ Runzi Qiang
++ Runzi Qiang: Implemented KNN and did parameter tuning, arrange group meetings, help understanidng the algorithms.
 + Yifan Yang: Implemented the starter code of stochastic gradient descent, regularization and matrix factorization. 
 
 
